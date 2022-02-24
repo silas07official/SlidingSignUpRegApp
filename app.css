@@ -21,7 +21,7 @@ body, input{
     width: 2000px;
     height: 2000px;
     border-radius: 50%;
-    background: linear-gradient(-45deg, #dd44eb, #050007);
+    background: linear-gradient(-45deg, #4481eb, #04befe);
     top: -10%;
     right: 48%;
     transform: translateY(-50%);
