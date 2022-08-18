@@ -72,8 +72,8 @@ form.sign-up-form {
   margin-bottom: 10px;
 }
 .input-field {
-  background-color: #f0f0f0;
-  border-radius: 55px;
+  background-color: #faf9f9;
+  border-radius: 10px;
   display: grid;
   grid-template-columns: 15% 85%;
   height: 55px;
